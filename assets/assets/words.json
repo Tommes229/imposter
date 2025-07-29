@@ -1,0 +1,97 @@
+{
+  "categories": {
+    "Tiere": [
+      "Elefant", "Giraffe", "Löwe", "Zebra", "Pinguin", "Delfin", "Schmetterling", "Biene", "Spinne", "Känguru",
+      "Koala", "Panda", "Tiger", "Bär", "Wolf", "Fuchs", "Hase", "Eule", "Nashorn", "Eichhörnchen",
+      "Krokodil", "Pfau", "Maus", "Fisch", "Papagei", "Adler", "Kamel", "Wal", "Seehund", "Möwe",
+      "Esel", "Taube", "Gans", "Schwan", "Fledermaus", "Igel", "Marder", "Waschbär", "Otter", "Luchs",
+      "Ameise", "Marienkäfer", "Qualle", "Tintenfisch", "Schlange", "Chamäleon", "Gorilla", "Huhn", "Kuh"
+    ],
+    "Essen": [
+      "Pizza", "Hamburger", "Spaghetti", "Sushi", "Schokolade", "Eis", "Brot", "Käse", "Apfel", "Banane",
+      "Kuchen", "Suppe", "Salat", "Steak", "Reis", "Nudeln", "Erdbeere", "Orange", "Birne", "Croissant",
+      "Wurst", "Pfannkuchen", "Donut", "Lasagne", "Torte", "Hotdog", "Müsli", "Joghurt", "Toast", "Sandwich",
+      "Pommes", "Currywurst", "Falafel", "Kebab", "Taco", "Burrito", "Hähnchen", "Ente", "Rindfleisch", "Lachs",
+      "Thunfisch", "Ananas", "Mango", "Melone", "Karotte", "Tomate", "Paprika", "Gurke", "Oliven", "Pilze"
+    ],
+    "Berufe": [
+      "Arzt", "Lehrer", "Pilot", "Koch", "Polizist", "Feuerwehrmann", "Programmierer", "Musiker", "Maler", "Schauspieler",
+      "Anwalt", "Ingenieur", "Verkäufer", "Mechaniker", "Journalist", "Designer", "Zahnarzt", "Architekt", "Elektriker", "Bauer",
+      "Psychologe", "Tänzer", "Biologe", "Apotheker", "Fotograf", "Dolmetscher", "Schreiner", "Maurer", "Klempner", "Busfahrer",
+      "Zugführer", "Schneider", "Bäcker", "Metzger", "Therapeut", "Forscher", "Sekretär", "Wissenschaftler", "Detektiv", "Pflegekraft", 
+      "Immobilienmakler", "Bibliothekar", "Gärtner", "Jäger"
+    ],
+    "Objekte": [
+      "Handy", "Computer", "Stuhl", "Lampe", "Buch", "Schlüssel", "Brille", "Uhr", "Kamera", "Gitarre",
+      "Ball", "Fernseher", "Tisch", "Kopfhörer", "Rucksack", "Schere", "Taschenlampe", "Föhn", "Spiegel", "Fernbedienung",
+      "Regenschirm", "Besen", "Eimer", "Teppich", "Bilderrahmen", "Vase", "Wecker", "Batterie", "Glühbirne", "Kerze",
+      "Seife", "Handtuch", "Kamm", "Kissen", "Decke", "Topf", "Pfanne", "Teller", "Besteck", "Tasse",
+      "Flasche", "Kugelschreiber", "Notizbuch", "Ordner", "Locher", "Heft", "Lineal", "Mülltonne", "Schrank", "Waschmaschine"
+    ],
+    "Länder": [
+      "Deutschland", "Frankreich", "Japan", "Australien", "Brasilien", "Kanada", "Italien", "Spanien", "Indien", "China",
+      "USA", "Russland", "Schweden", "Norwegen", "Mexiko", "Ägypten", "Südafrika", "Neuseeland", "Griechenland", "Türkei",
+      "Argentinien", "Südkorea", "Portugal", "Schweiz", "Österreich", "Finnland", "Polen", "Dänemark", "Irland", "Belgien",
+      "Thailand", "Vietnam", "Indonesien", "Philippinen", "Malaysia", "Ukraine", "Tschechien", "Rumänien", "Kroatien",
+      "Chile", "Peru", "Kolumbien", "Slowakei", "Slowenien", "Estland", "Island"
+    ],
+    "Sport": [
+      "Fußball", "Basketball", "Tennis", "Schwimmen", "Laufen", "Radfahren", "Volleyball", "Golf", "Boxen", "Yoga",
+      "Skifahren", "Surfen", "Handball", "Badminton", "Reiten", "Klettern", "Tanzen", "Bowling", "Eishockey", "Baseball",
+      "Rudern", "Fechten", "Turnen", "Schach", "Motorsport", "Wasserspringen", "Ringen", "Judo", "Karate",
+      "Segeln", "Kanu", "Darts", "Billard", "Eiskunstlauf", "Biathlon", "Triathlon", "Snowboarden", "Langlauf", "Hochsprung",
+      "Speerwurf", "Diskuswurf", "Hammerwurf", "Weitsprung", "Stabhochsprung", "Skispringen", "Gewichtheben", "Sumo", "Parkour", "Cheerleading"
+    ],
+    "Filme": [
+      "Titanic", "Avatar", "Inception", "Matrix", "Gladiator", "Forrest Gump", "Pulp Fiction", "Star Wars", "Harry Potter", "Batman",
+      "Spider-Man", "Iron Man", "Frozen", "Toy Story", "Shrek", "Finding Nemo", "Lion King", "Avengers", "Joker", "The Godfather",
+      "Minions", "Interstellar", "Up", "Cars", "Inside Out", "The Incredibles", "Jurassic Park", "Pirates of the Caribbean", "Guardians of the Galaxy", "Encanto",
+      "Black Panther", "Doctor Strange", "Ant-Man", "Deadpool", "Tenet", "Oppenheimer",
+      "Barbie"
+    ],
+    "Fahrzeuge": [
+      "Auto", "Fahrrad", "Bus", "Zug", "Motorrad", "Flugzeug", "Schiff", "Traktor", "U-Bahn",
+      "Kran", "Gabelstapler", "Quad", "Helikopter", "Straßenbahn", "Taxi", "LKW", "Boot", "Yacht", "Seifenkiste",
+      "Segelboot", "Jetski", "Bagger", "Panzer", "Kutsche", "Raumschiff", "Hoverboard", "SUV", "Cabrio",
+      "Kleinwagen", "Limousine", "Wohnmobil", "Anhänger", "Tretboot", "Dreirad", "E-Scooter",
+      "Go-Kart", "Bulldozer", "Oldtimer", "Gondel", "Seilbahn", "Zeppelin", "E-Bike", "Schneemobil"
+    ],
+    "Musikinstrumente": [
+      "Gitarre", "Klavier", "Geige", "Schlagzeug", "Flöte", "Trompete", "Saxophon", "Cello", "Akkordeon", "Bass",
+      "Ukulele", "Banjo", "Klarinette", "Oboe", "Posaune", "Xylophon", "Mundharmonika", "Harfe", "Tuba", "Orgel",
+      "Kontrabass", "Synthesizer", "Marimba", "Tamburin", "Triangel", "Kazoo", "Didgeridoo", "Panflöte", "Fagott", "Zither",
+      "Ocarina", "Cajón", "Handpan", "Bongos"
+    ],
+    "Ereignisse": [
+      "Geburtstag", "Hochzeit", "Beerdigung", "Umzug", "Urlaub", "Weihnachten", "Silvester",
+      "Ostern", "Neujahr", "Karneval", "Unfall", "Geburt", "Abschlussfeier", "Wahl",
+      "Streik", "Demonstration", "Festival", "Konzert", "Prüfung", "Eröffnung",
+      "Schulanfang", "Scheidung", "Überschwemmung", "Erdbeben", "Vulkan-Ausbruch",
+      "Stromausfall", "Weltmeisterschaft", "Olympia", "Jubiläum",
+      "Verlobung", "Gewinnspiel", "Verhaftung", "Rettung", "Spendenaktion", "Messe",
+      "Premiere", "Kunstausstellung", "Börsencrash", "Revolution"
+    ],
+    "Computerspiele": [
+      "Minecraft", "Fortnite", "League of Legends", "Counter-Strike", "Valorant", "Overwatch",
+      "World of Warcraft", "Diablo", "The Sims", "Among Us", "Call of Duty", "FIFA",
+      "Rocket League", "Elden Ring", "Dark Souls", "GTA V", "Red Dead Redemption", "Cyberpunk 2077",
+      "Assassin's Creed", "Battlefield", "Apex Legends", "PUBG", "Terraria",
+      "Animal Crossing", "Hades", "Hollow Knight", "Celeste", "God of War", "Zelda: Breath of the Wild",
+      "Super Mario Odyssey", "Mario Kart", "Tetris", "Pac-Man", "DOOM",
+      "Half-Life", "Portal", "StarCraft", "Civilization", "SimCity",
+      "Halo", "Dead by Daylight", "Phasmophobia", "Dota 2",
+      "Resident Evil", "Final Fantasy"
+    ],
+    "Orte": [
+      "Strand", "Museum", "Krankenhaus", "Schule", "Restaurant", "Park",
+      "Flughafen", "Bahnhof", "Kino", "Theater", "Bibliothek", "Supermarkt",
+      "Bank", "Post", "Apotheke", "Kirche", "Hotel", "Café",
+      "Zoo", "Tankstelle", "Bäckerei", "Schwimmbad", "Sportplatz", "Universität",
+      "Bahnhof", "Marktplatz", "Feuerwache", "Polizeistation", "Friedhof",
+      "Fitnessstudio", "Rathaus", "Kindergarten", "Einkaufszentrum",
+      "Planetarium", "Aquarium", "Bücherei", "Kunstgalerie", "Bahnhofsplatz",
+      "Schloss", "Brücke", "Wald"
+    ]
+
+  }
+}
